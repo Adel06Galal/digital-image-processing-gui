@@ -173,18 +173,6 @@ python gui.py
 ```
 ---
 
-# 📸 Screenshots
-
-(Add application screenshots here)
-
-Example:
-
-```
-![Application Preview](screenshots/app.png)
-```
-
----
-
 # 📚 Learning Outcomes
 
 This project demonstrates practical implementation of:
