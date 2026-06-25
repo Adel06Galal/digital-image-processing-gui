@@ -1,27 +1,3 @@
-
-📂 هيكل فولدر المشروع (Project Structure)
-Plaintext
-image-processing-suite/
-│
-├── main.py              # الكود الخاص بواجهة المستخدم (Tkinter/CustomTkinter)
-├── image_tools.py       # الدوال المساعدة لقراءة الصور والـ Histograms
-├── operations.py        # جميع عمليات معالجة الصور الفلاتر والـ Morphology
-├── requirements.txt     # المكتبات المطلوبة لتشغيل المشروع
-└── README.md            # دليل شرح تشغيل واستخدام المشروع
-🛠️ محتويات الملفات المساعدة
-1️⃣ ملف المكتبات requirements.txt
-اضف فيه المكتبات اللي الكود بيستخدمها علشان أي حد يحمل المشروع يقدر يثبتها بـ أمر واحد:
-
-Plaintext
-customtkinter>=5.2.0
-opencv-python>=4.8.0
-pillow>=10.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-2️⃣ ملف دليل المشروع README.md
-ده واجهة المشروع على GitHub وبيشرح هو بيعمل إيه وإزاي يشتغل:
-
-Markdown
 # 🖼️ Image Processing Desktop Application
 
 A comprehensive desktop application built with **CustomTkinter** and **OpenCV** that provides a wide variety of image processing operations, filtering, noise generation, and morphological transformations.
