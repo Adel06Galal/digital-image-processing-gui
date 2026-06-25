@@ -241,4 +241,3 @@ Developed for educational and academic purposes.
 ## ❤️ Built by Image Processing Team
 
 </div>
-```
