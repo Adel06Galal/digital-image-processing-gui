@@ -128,9 +128,9 @@ Digital-Image-Processing-Suite/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+https://github.com/Adel06Galal/digital-image-processing-gui.git
 
-cd YOUR_REPO_NAME
+cd digital-image-processing-gui
 ```
 
 ---
