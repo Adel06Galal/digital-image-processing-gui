@@ -1,11 +1,4 @@
 
-محادثة مع Gemini
-عاوز اعمل لده repo
-
-علشان تعمل Repository (Repo) احترافي على GitHub للمشروع ده، يفضل تقسم الكود لملفات منفصلة وتضيف ملفات أساسية زي requirements.txt و README.md.
-
-إليك الهيكل المقترح للمشروع والملفات اللي هتحتاجها:
-
 📂 هيكل فولدر المشروع (Project Structure)
 Plaintext
 image-processing-suite/
