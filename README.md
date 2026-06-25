@@ -163,14 +163,14 @@ python gui.py
 ---
 
 # 🎛️ Application Highlights
-
+```text
 ✅ Modern Desktop Interface
 ✅ Real-time Image Processing
 ✅ Multiple Image Operations
 ✅ Interactive Histogram Visualization
 ✅ Noise Simulation & Restoration
 ✅ Academic + Practical Computer Vision Implementation
-
+```
 ---
 
 # 📸 Screenshots
