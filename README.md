@@ -196,4 +196,3 @@ This project is created for educational and learning purposes.
 Made with ❤️ by the Image Processing Team
 
 </div>
-```
