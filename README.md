@@ -122,3 +122,90 @@ Digital-Image-Processing-Suite/
 ├── requirements.txt
 │
 └── README.md
+```
+# 🚀 Installation & Running
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
+cd YOUR_REPO_NAME
+```
+
+---
+
+## 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 3. Run Application
+
+```bash
+python gui.py
+```
+
+---
+
+# 👥 Team Members
+
+| Member | Contribution                              |
+| ------ | ----------------------------------------- |
+| Adel   | Image Subtraction Module                  |
+| Mariam | Red Channel Elimination                   |
+| Hassan | Maximum Filter & Morphological Operations |
+| Aliaa  | Global Thresholding & Segmentation        |
+
+---
+
+# 🎛️ Application Highlights
+
+✅ Modern Desktop Interface
+✅ Real-time Image Processing
+✅ Multiple Image Operations
+✅ Interactive Histogram Visualization
+✅ Noise Simulation & Restoration
+✅ Academic + Practical Computer Vision Implementation
+
+---
+
+# 📸 Screenshots
+
+(Add application screenshots here)
+
+Example:
+
+```
+![Application Preview](screenshots/app.png)
+```
+
+---
+
+# 📚 Learning Outcomes
+
+This project demonstrates practical implementation of:
+
+* Digital Image Processing concepts
+* Computer Vision algorithms
+* GUI application development
+* Image enhancement techniques
+* Morphological image analysis
+
+---
+
+# 📄 License
+
+This project is created for educational and learning purposes.
+
+---
+
+<div align="center">
+
+Made with ❤️ by the Image Processing Team
+
+</div>
+```
